@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1736822642 source:/home/luiz/Desktop/TrabalhoFinalEstruturaDeDados/TesteGalante/avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1736818644 /home/luiz/Desktop/TrabalhoFinalEstruturaDeDados/TesteGalante/avl.h
+
+1736826492 source:/home/luiz/Desktop/TrabalhoFinalEstruturaDeDados/TesteGalante/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
